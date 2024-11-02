@@ -1,1 +1,1 @@
-# githib.marouanebattach.io
+# github.marouanebattach.io
