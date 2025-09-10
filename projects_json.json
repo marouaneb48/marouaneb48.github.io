@@ -1,0 +1,167 @@
+[
+  {
+    "title": "LanguageAI Toolkit",
+    "status": "active",
+    "description": "An open-source toolkit for developing and evaluating natural language processing models with a focus on interpretability and fairness.",
+    "longDescription": "The LanguageAI Toolkit provides researchers and practitioners with a comprehensive set of tools for building, training, and evaluating NLP models. It includes modules for data preprocessing, model training, evaluation metrics, and visualization of results.",
+    "technologies": ["Python", "PyTorch", "Hugging Face", "Streamlit"],
+    "links": [
+      {
+        "type": "GitHub",
+        "icon": "fab fa-github",
+        "url": "https://github.com/your-username/languageai-toolkit"
+      },
+      {
+        "type": "Demo", 
+        "icon": "fas fa-external-link-alt",
+        "url": "https://languageai-demo.herokuapp.com"
+      },
+      {
+        "type": "Paper",
+        "icon": "fas fa-file-alt",
+        "url": "assets/docs/languageai_paper.pdf"
+      },
+      {
+        "type": "Documentation",
+        "icon": "fas fa-book",
+        "url": "https://languageai-toolkit.readthedocs.io"
+      }
+    ],
+    "funding": "NSF Grant #123456",
+    "startDate": "2022-09",
+    "collaborators": ["University of ABC", "Tech Company XYZ"],
+    "featured": true
+  },
+
+  {
+    "title": "Neural Text Analytics Platform",
+    "status": "completed", 
+    "description": "A comprehensive framework for analyzing large-scale text data using state-of-the-art deep learning models and visualization techniques.",
+    "longDescription": "This platform enables researchers to perform advanced text analytics on large datasets. It includes tools for topic modeling, sentiment analysis, entity recognition, and interactive visualization of results.",
+    "technologies": ["TensorFlow", "D3.js", "Flask", "MongoDB"],
+    "links": [
+      {
+        "type": "GitHub",
+        "icon": "fab fa-github",
+        "url": "https://github.com/your-username/neural-text-analytics"
+      },
+      {
+        "type": "Live App",
+        "icon": "fas fa-external-link-alt", 
+        "url": "https://neural-text-analytics.herokuapp.com"
+      },
+      {
+        "type": "Case Study",
+        "icon": "fas fa-chart-bar",
+        "url": "assets/docs/text_analytics_case_study.pdf"
+      }
+    ],
+    "funding": "Industry Partnership with DataCorp",
+    "startDate": "2021-01",
+    "endDate": "2022-08",
+    "collaborators": ["DataCorp Research Division"],
+    "featured": true
+  },
+
+  {
+    "title": "Collaborative AI Research Platform",
+    "status": "active",
+    "description": "A collaborative platform enabling researchers to share datasets, models, and experimental results in a reproducible manner.",
+    "longDescription": "This platform facilitates collaboration between AI researchers by providing tools for dataset sharing, experiment tracking, model versioning, and result reproduction. It aims to improve the reproducibility crisis in AI research.",
+    "technologies": ["React", "Node.js", "Docker", "PostgreSQL"], 
+    "links": [
+      {
+        "type": "GitHub",
+        "icon": "fab fa-github",
+        "url": "https://github.com/your-username/collaborative-ai-platform"
+      },
+      {
+        "type": "Join Platform",
+        "icon": "fas fa-users",
+        "url": "https://collaborative-ai.research-platform.org"
+      },
+      {
+        "type": "Whitepaper",
+        "icon": "fas fa-file-pdf",
+        "url": "assets/docs/collaborative_ai_whitepaper.pdf"
+      }
+    ],
+    "funding": "University Internal Grant",
+    "startDate": "2023-01", 
+    "collaborators": ["Computer Science Department", "Digital Humanities Lab"],
+    "featured": true
+  },
+
+  {
+    "title": "Multilingual Sentiment Analysis",
+    "status": "completed",
+    "description": "Cross-lingual sentiment analysis system supporting 15+ languages with state-of-the-art accuracy.",
+    "longDescription": "This project developed advanced techniques for sentiment analysis across multiple languages, focusing on low-resource languages and cross-lingual transfer learning.",
+    "technologies": ["Python", "Transformers", "FastAPI", "Docker"],
+    "links": [
+      {
+        "type": "GitHub", 
+        "icon": "fab fa-github",
+        "url": "https://github.com/your-username/multilingual-sentiment"
+      },
+      {
+        "type": "API",
+        "icon": "fas fa-code",
+        "url": "https://api.multilingual-sentiment.org"
+      }
+    ],
+    "funding": "European Research Council Grant",
+    "startDate": "2020-06",
+    "endDate": "2021-12",
+    "collaborators": ["University of Vienna", "DFKI Germany"],
+    "featured": false
+  },
+
+  {
+    "title": "Educational AI Assistant",
+    "status": "active",
+    "description": "An AI-powered teaching assistant that helps students with computer science coursework and provides personalized feedback.",
+    "longDescription": "This project aims to create an intelligent tutoring system that can assist students in learning computer science concepts, provide code reviews, and offer personalized study recommendations.",
+    "technologies": ["Python", "OpenAI API", "Django", "React"],
+    "links": [
+      {
+        "type": "GitHub",
+        "icon": "fab fa-github", 
+        "url": "https://github.com/your-username/educational-ai-assistant"
+      },
+      {
+        "type": "Demo",
+        "icon": "fas fa-play",
+        "url": "https://edu-ai-assistant.demo.org"
+      }
+    ],
+    "funding": "Department of Education Grant",
+    "startDate": "2023-03",
+    "collaborators": ["Education Technology Lab"],
+    "featured": false
+  },
+
+  {
+    "title": "Ethical AI Framework",
+    "status": "active", 
+    "description": "A comprehensive framework for evaluating and ensuring ethical AI development and deployment.",
+    "longDescription": "This project develops tools and methodologies for assessing AI systems for bias, fairness, transparency, and social impact. It includes guidelines, evaluation metrics, and software tools.",
+    "technologies": ["Python", "Jupyter", "scikit-learn", "Fairlearn"],
+    "links": [
+      {
+        "type": "GitHub",
+        "icon": "fab fa-github",
+        "url": "https://github.com/your-username/ethical-ai-framework"
+      },
+      {
+        "type": "Guidelines",
+        "icon": "fas fa-book-open",
+        "url": "assets/docs/ethical_ai_guidelines.pdf"
+      }
+    ],
+    "funding": "NSF Ethics in AI Initiative",
+    "startDate": "2022-11",
+    "collaborators": ["Philosophy Department", "AI Ethics Consortium"],
+    "featured": false
+  }
+]

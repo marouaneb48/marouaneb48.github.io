@@ -1,0 +1,137 @@
+{
+  "name": "Dr. Jane Smith",
+  "title": "Assistant Professor of Computer Science",
+  "heroTitle": "Welcome to My Academic Portfolio",
+  "heroSubtitle": "Advancing knowledge through research in artificial intelligence, machine learning, and computational linguistics.",
+  
+  "bio": [
+    "I am an Assistant Professor in the Department of Computer Science at University Name. My research focuses on the intersection of artificial intelligence and natural language processing, with particular emphasis on developing robust machine learning models for real-world applications.",
+    
+    "I received my Ph.D. in Computer Science from Previous University in 2018, where I worked on deep learning approaches to language understanding. Prior to my current position, I was a postdoctoral researcher at Research Institute, where I developed novel algorithms for computational linguistics.",
+    
+    "My work has been published in top-tier conferences and journals including NeurIPS, ICML, ACL, and Nature Machine Intelligence. I am passionate about bridging the gap between theoretical research and practical applications that benefit society."
+  ],
+
+  "education": [
+    {
+      "degree": "Ph.D. in Computer Science",
+      "institution": "Previous University",
+      "year": "2018"
+    },
+    {
+      "degree": "M.S. in Computer Science", 
+      "institution": "Another University",
+      "year": "2014"
+    },
+    {
+      "degree": "B.S. in Computer Science",
+      "institution": "Undergraduate University", 
+      "year": "2012"
+    }
+  ],
+
+  "quickFacts": [
+    {
+      "label": "Research Focus",
+      "value": "AI & Natural Language Processing"
+    },
+    {
+      "label": "Publications",
+      "value": "25+ peer-reviewed papers"
+    },
+    {
+      "label": "Students Supervised",
+      "value": "45+ graduate & undergraduate"
+    },
+    {
+      "label": "Awards",
+      "value": "NSF CAREER Award, Best Paper Award"
+    }
+  ],
+
+  "researchInterests": [
+    {
+      "icon": "fas fa-brain",
+      "title": "Machine Learning",
+      "description": "Deep learning, neural networks, and optimization algorithms"
+    },
+    {
+      "icon": "fas fa-language", 
+      "title": "Natural Language Processing",
+      "description": "Language models, sentiment analysis, and text generation"
+    },
+    {
+      "icon": "fas fa-robot",
+      "title": "Artificial Intelligence", 
+      "description": "AI safety, explainable AI, and human-AI interaction"
+    },
+    {
+      "icon": "fas fa-chart-line",
+      "title": "Data Science",
+      "description": "Statistical modeling, data visualization, and predictive analytics"
+    }
+  ],
+
+  "contact": {
+    "email": "jane.smith@university.edu",
+    "phone": "+1 (555) 123-4567",
+    "office": {
+      "building": "Computer Science Building, Room 314",
+      "university": "University Name",
+      "address": "City, State 12345"
+    }
+  },
+
+  "socialLinks": [
+    {
+      "platform": "LinkedIn",
+      "icon": "fab fa-linkedin",
+      "url": "https://linkedin.com/in/your-profile"
+    },
+    {
+      "platform": "GitHub", 
+      "icon": "fab fa-github",
+      "url": "https://github.com/your-username"
+    },
+    {
+      "platform": "Google Scholar",
+      "icon": "fas fa-graduation-cap", 
+      "url": "https://scholar.google.com/citations?user=YOUR_ID"
+    },
+    {
+      "platform": "ORCID",
+      "icon": "fab fa-orcid",
+      "url": "https://orcid.org/0000-0000-0000-0000"
+    },
+    {
+      "platform": "ResearchGate",
+      "icon": "fab fa-researchgate",
+      "url": "https://researchgate.net/profile/Your_Name"
+    },
+    {
+      "platform": "Twitter",
+      "icon": "fab fa-twitter", 
+      "url": "https://twitter.com/your-handle"
+    }
+  ],
+
+  "supervision": [
+    {
+      "type": "PhD Students",
+      "count": 8
+    },
+    {
+      "type": "Master's Students", 
+      "count": 12
+    },
+    {
+      "type": "Undergraduate Researchers",
+      "count": 25
+    }
+  ],
+
+  "footer": {
+    "copyright": "Dr. Jane Smith",
+    "lastUpdated": "December 2023"
+  }
+}
