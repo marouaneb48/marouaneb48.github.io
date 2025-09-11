@@ -621,12 +621,4 @@ window.addEventListener('load', () => {
 
 // Export functions for global access
 window.closeSearch = closeSearch;
-window.navigateToSection = navigateToSection; fa-envelope"></i>
-            <div>
-                <h4>Email</h4>
-                <p><a href="mailto:${personalData.contact.email}">${personalData.contact.email}</a></p>
-            </div>
-        </div>
-        
-        <div class="contact-item">
-            <i class="fas
+window.navigateToSection = navigateToSection;
