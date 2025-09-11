@@ -615,8 +615,13 @@ window.addEventListener('load', () => {
     }
     
     // Initialize optional features
-    // addThemeToggle(); // Uncomment to add theme toggle
-    // loadSavedTheme(); // Uncomment to enable theme persistence
+    addThemeToggle(); // Uncomment to add theme toggle
+    loadSavedTheme(); // Uncomment to enable theme persistence
+});
+
+// Log errors during loading
+window.addEventListener('error', (event) => {
+    console.error('Error loading the website:', event.message);
 });
 
 // Export functions for global access
