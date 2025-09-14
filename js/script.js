@@ -22,19 +22,19 @@ document.addEventListener('DOMContentLoaded', async () => {
 async function loadAllData() {
     try {
         const [personal, publications, courses, projects] = await Promise.all([
-            fetch('data/personal.json').then(response => {
+            fetch('data/personal.json?v='+ new Date().getTime()).then(response => {
                 if (!response.ok) throw new Error(`Failed to load personal data: ${response.status}`);
                 return response.json();
             }),
-            fetch('data/publications.json').then(response => {
+            fetch('data/publications.json?v='+ new Date().getTime()).then(response => {
                 if (!response.ok) throw new Error(`Failed to load publications data: ${response.status}`);
                 return response.json();
             }),
-            fetch('data/courses.json').then(response => {
+            fetch('data/courses.json?v='+ new Date().getTime()).then(response => {
                 if (!response.ok) throw new Error(`Failed to load courses data: ${response.status}`);
                 return response.json();
             }),
-            fetch('data/projects.json').then(response => {
+            fetch('data/projects.json?v='+ new Date().getTime()).then(response => {
                 if (!response.ok) throw new Error(`Failed to load projects data: ${response.status}`);
                 return response.json();
             })
