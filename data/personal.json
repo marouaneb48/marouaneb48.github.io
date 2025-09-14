@@ -1,84 +1,83 @@
 {
   "name": "Marouane BATTACH",
-  "title": "Ph.D student",
+  "title": "Ph.D. Student & Assistant Professor at CentraleSupélec",
   "heroTitle": "Welcome to My Academic Portfolio",
-  "heroSubtitle": "Advancing knowledge through research in finance and artificial intelligence",
+  "heroSubtitle": "Exploring the intersection of artificial intelligence, finance, and fundraising",
   
   "bio": [
-    "I am a Ph.D student in the Department of Computer Science at . My research focuses on the intersection of artificial intelligence and finance, with particular emphasis on developing robust machine learning models for real-world applications.",
+    "I am a Ph.D. student at the Laboratoire des signaux et systèmes (L2S), CentraleSupélec, within the ILOCOS team. My research focuses on artificial intelligence applications in finance and fundraising, particularly on crowdfunding dynamics and advanced machine learning approaches for financial modeling.",
     
-    "I received my Ph.D. in Computer Science from Previous University in 2018, where I worked on deep learning approaches to language understanding. Prior to my current position, I was a postdoctoral researcher at Research Institute, where I developed novel algorithms for computational linguistics.",
+    "Alongside my doctoral research, I am an Assistant Professor at CentraleSupélec, where I contribute to teaching and mentoring in computer science and data science. My academic work lies at the intersection of finance, mathematics, and AI, with the aim of bridging theoretical advances and practical financial applications.",
     
-    "My work has been published in top-tier conferences and journals including NeurIPS, ICML, ACL, and Nature Machine Intelligence. I am passionate about bridging the gap between theoretical research and practical applications that benefit society."
+    "I am passionate about leveraging AI and quantitative models to better understand financial behaviors, improve fundraising mechanisms, and develop data-driven tools with societal impact."
   ],
 
   "education": [
     {
-      "degree": "Ph.D. in Computer Science",
-      "institution": "Previous University",
-      "year": "2018"
+      "degree": "Ph.D. in Artificial Intelligence & Finance (in progress)",
+      "institution": "CentraleSupélec, Université Paris-Saclay",
+      "year": "2022 – Present"
     },
     {
-      "degree": "M.S. in Computer Science", 
-      "institution": "Another University",
-      "year": "2014"
+      "degree": "M.S. in Mathematics & Computer Science",
+      "institution": "Université Paris-Saclay",
+      "year": "2021"
     },
     {
-      "degree": "B.S. in Computer Science",
-      "institution": "Undergraduate University", 
-      "year": "2012"
+      "degree": "B.S. in Mathematics & Physics",
+      "institution": "Université Hassan II de Casablanca",
+      "year": "2019"
     }
   ],
 
   "quickFacts": [
     {
       "label": "Research Focus",
-      "value": "AI & Natural Language Processing"
+      "value": "AI for Finance, Crowdfunding, and Quantitative Modeling"
     },
     {
       "label": "Publications",
-      "value": "25+ peer-reviewed papers"
+      "value": "Working papers & conference submissions (ongoing)"
     },
     {
-      "label": "Students Supervised",
-      "value": "45+ graduate & undergraduate"
+      "label": "Teaching",
+      "value": "Assistant Professor at CentraleSupélec"
     },
     {
-      "label": "Awards",
-      "value": "NSF CAREER Award, Best Paper Award"
+      "label": "Affiliation",
+      "value": "L2S Laboratory, ILOCOS Team"
     }
   ],
 
   "researchInterests": [
     {
       "icon": "fas fa-brain",
-      "title": "Machine Learning",
-      "description": "Deep learning, neural networks, and optimization algorithms"
-    },
-    {
-      "icon": "fas fa-language", 
-      "title": "Natural Language Processing",
-      "description": "Language models, sentiment analysis, and text generation"
-    },
-    {
-      "icon": "fas fa-robot",
-      "title": "Artificial Intelligence", 
-      "description": "AI safety, explainable AI, and human-AI interaction"
+      "title": "Machine Learning & AI",
+      "description": "Deep learning, Hawkes processes, and explainable AI in finance"
     },
     {
       "icon": "fas fa-chart-line",
+      "title": "Quantitative Finance",
+      "description": "Asset pricing, backtesting, and financial econometrics"
+    },
+    {
+      "icon": "fas fa-university",
+      "title": "Crowdfunding & Fundraising",
+      "description": "Modeling success factors in online fundraising platforms"
+    },
+    {
+      "icon": "fas fa-database",
       "title": "Data Science",
-      "description": "Statistical modeling, data visualization, and predictive analytics"
+      "description": "Large-scale simulations, HPC optimization, and predictive analytics"
     }
   ],
 
   "contact": {
-    "email": "jane.smith@university.edu",
-    "phone": "+1 (555) 123-4567",
+    "email": "marouane.battach@centralesupelec.fr",
     "office": {
-      "building": "Computer Science Building, Room 314",
-      "university": "University Name",
-      "address": "City, State 12345"
+      "building": "Laboratoire des signaux et systèmes (L2S)",
+      "university": "CentraleSupélec, Université Paris-Saclay",
+      "address": "Gif-sur-Yvette, France"
     }
   },
 
@@ -86,12 +85,12 @@
     {
       "platform": "LinkedIn",
       "icon": "fab fa-linkedin",
-      "url": "https://linkedin.com/in/your-profile"
+      "url": "https://linkedin.com/in/marouane-battach"
     },
     {
       "platform": "GitHub", 
       "icon": "fab fa-github",
-      "url": "https://github.com/your-username"
+      "url": "https://github.com/marouanebattach"
     },
     {
       "platform": "Google Scholar",
@@ -101,37 +100,37 @@
     {
       "platform": "ORCID",
       "icon": "fab fa-orcid",
-      "url": "https://orcid.org/0000-0000-0000-0000"
+      "url": "https://orcid.org/YOUR_ORCID"
     },
     {
       "platform": "ResearchGate",
       "icon": "fab fa-researchgate",
-      "url": "https://researchgate.net/profile/Your_Name"
+      "url": "https://researchgate.net/profile/Marouane_Battach"
     },
     {
       "platform": "Twitter",
       "icon": "fab fa-twitter", 
-      "url": "https://twitter.com/your-handle"
+      "url": "https://twitter.com/YOUR_HANDLE"
     }
   ],
 
   "supervision": [
     {
       "type": "PhD Students",
-      "count": 8
+      "count": 0
     },
     {
       "type": "Master's Students", 
-      "count": 12
+      "count": 0
     },
     {
       "type": "Undergraduate Researchers",
-      "count": 25
+      "count": 0
     }
   ],
 
   "footer": {
-    "copyright": "Dr. Jane Smith",
-    "lastUpdated": "December 2023"
+    "copyright": "Marouane BATTACH",
+    "lastUpdated": "September 2025"
   }
 }
