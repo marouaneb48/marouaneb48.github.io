@@ -14,19 +14,19 @@
 
   "education": [
     {
-      "degree": "Ph.D. in Artificial Intelligence & Finance (in progress)",
+      "degree": "Ph.D. in Computer Science",
       "institution": "CentraleSupélec, Université Paris-Saclay",
-      "year": "2022 – Present"
+      "year": "2023 October – 2026 October"
     },
     {
-      "degree": "M.S. in Mathematics & Computer Science",
-      "institution": "Université Paris-Saclay",
-      "year": "2021"
+      "degree": "Engineering Degree in quantitative finance & data science",
+      "institution": "CentraleSupélec, Université Paris-Saclay",
+      "year": "2020 September - 2023 September"
     },
     {
-      "degree": "B.S. in Mathematics & Physics",
+      "degree": "C.P.G.E (Preparatory Classes for Grandes Écoles) - MPSI/MP*",
       "institution": "Université Hassan II de Casablanca",
-      "year": "2019"
+      "year": "2018-2020"
     }
   ],
 
